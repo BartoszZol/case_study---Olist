@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS olist_brazilian_ecommerce;
+CREATE DATABASE olist_brazilian_ecommerce;
+USE olist_brazilian_ecommerce;

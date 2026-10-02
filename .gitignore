@@ -1,0 +1,12 @@
+# Raw Kaggle CSVs — not redistributed per dataset license; see README for download link
+*.csv
+
+# Tableau temp/lock/backup files
+*.twbx.lock
+~*.twb
+~*.twbx
+*.hyper.lock
+
+# OS junk
+.DS_Store
+Thumbs.db
